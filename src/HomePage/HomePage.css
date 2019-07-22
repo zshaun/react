@@ -1,0 +1,8 @@
+.list-group-item:first-child {
+    border-top-left-radius: 0; 
+    border-top-right-radius: 0;
+}
+
+.search-group {
+    margin-bottom: -1px;
+}
